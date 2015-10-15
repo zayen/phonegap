@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Index - blog.cedriccornelis.fr */
+
+#content{
+	margin:10px;
+}
+
+/*ul{
+	float:left;
+	list-style-type:none;
+}
+
+@media print{
+	h1{
+		color:red;
+	}
+}
+	
+	 
+li {
+	float:left;
+	margin-right:10px;
+}
+*/
+img {
+	width:70px;
+	height:100px;
+}
+p{
+	width:30%;
+}
+th{
+	padding-right:15px;
+}
+
+/*
+a {
+	float:left;
+}
+
+.clear{
+	clear:both;
+}
